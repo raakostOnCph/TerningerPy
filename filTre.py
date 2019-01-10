@@ -18,3 +18,6 @@
 
 
 '''tilge på masker'''
+
+
+'''Så ser vi lige om jeg har fattet det'''
