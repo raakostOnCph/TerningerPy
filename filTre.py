@@ -21,3 +21,5 @@
 
 
 '''Så ser vi lige om jeg har fattet det'''
+
+'''jeg kan ikke komme tilbage ved blot at tjecke det sidst kommit ud, uden at den skriver detach head'''
